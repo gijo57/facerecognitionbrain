@@ -1,0 +1,8 @@
+POST http://localhost:3001/register
+Content-Type: application/json
+
+{
+    "name": "John2",
+    "email": "john2@googol.com",
+    "password": "cookies"
+}
